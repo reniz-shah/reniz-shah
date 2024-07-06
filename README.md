@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I am Reniz Shah👋
 
 <!--
 **reniz-shah/reniz-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working as SDE II in BreathAi 
+- 💬 Ask me about anything in ReactJs, NodeJs, NestJs, Javascript, Typescript, Python, FastAPI 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/reniz-s-4a946b138/">Reniz Shah</a>
