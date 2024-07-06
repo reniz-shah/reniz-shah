@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as SDE II in BreathAi 
 - 💬 Ask me about anything in ReactJs, NodeJs, NestJs, Javascript, Typescript, Python, FastAPI 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/reniz-s-4a946b138/">Reniz Shah</a>
+- 📫 How to reach me: <a href="mailto:shahreniz2810@gmail.com/">Reniz Shah</a>
 
 ### Visitor Count 🔄️
 ![Visitor Count](https://profile-counter.glitch.me/reniz-shah/count.svg)
